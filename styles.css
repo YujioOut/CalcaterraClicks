@@ -23,6 +23,7 @@ h3 {
 }
 h1 {
   font-size: 2.5rem;
+  color: #6a43a4; /* Same as your button color */
 }
 h2 {
   font-size: 1.8rem;
